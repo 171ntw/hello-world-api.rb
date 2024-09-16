@@ -38,4 +38,4 @@ end;
 ruby main.rb
 ```
 
-4. Acesse a API em [http://localhost](http://localhost:4567).
+4. Acesse a API em [http://localhost:4567](http://localhost:4567).
